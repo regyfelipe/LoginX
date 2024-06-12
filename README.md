@@ -28,4 +28,4 @@ O **LoginX** é uma aplicação web desenvolvida utilizando React, HTML e CSS. P
 ## Conclusão
 O **LoginX** oferece uma interface de login moderna e intuitiva para os usuários. Com uma integração suave com o Google e opções de login tradicionais, a aplicação proporciona uma experiência de usuário agradável.
 
-Para mais detalhes, visite nosso [site oficial](https://example.com/loginx).
+Para mais detalhes, visite nosso [site oficial](https://login-x.vercel.app/).
